@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="71786" started-at="2018-11-20T08:11:31Z" finished-at="2018-11-20T08:12:42Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="71786" started-at="2018-11-20T08:11:31Z" finished-at="2018-11-20T08:12:42Z">
+      <class name="TestNGbasics.dataprovider">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="14892" started-at="2018-11-20T08:11:31Z" finished-at="2018-11-20T08:11:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="testFacebook" duration-ms="4825" started-at="2018-11-20T08:11:46Z" data-provider="Test" finished-at="2018-11-20T08:11:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="1595" started-at="2018-11-20T08:11:50Z" finished-at="2018-11-20T08:11:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="14586" started-at="2018-11-20T08:11:52Z" finished-at="2018-11-20T08:12:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="testFacebook" duration-ms="4414" started-at="2018-11-20T08:12:07Z" data-provider="Test" finished-at="2018-11-20T08:12:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="1614" started-at="2018-11-20T08:12:11Z" finished-at="2018-11-20T08:12:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="setUp" is-config="true" duration-ms="23270" started-at="2018-11-20T08:12:13Z" finished-at="2018-11-20T08:12:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="testFacebook(java.lang.String, java.lang.String)[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="testFacebook" duration-ms="5025" started-at="2018-11-20T08:12:36Z" data-provider="Test" finished-at="2018-11-20T08:12:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[user3]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[pass3]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- testFacebook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:TestNGbasics.dataprovider@30a3107a]" name="tearDown" is-config="true" duration-ms="1476" started-at="2018-11-20T08:12:41Z" finished-at="2018-11-20T08:12:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- TestNGbasics.dataprovider -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
